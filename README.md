@@ -2,7 +2,7 @@
 
 I'm currently looking for a Junior Developer role.
 
-While doing that I am studying and work on my own small projects.
+While doing that I am studying and working on my own small projects.
 
 My personal website is at https://marycummings.surge.sh
 

@@ -4,7 +4,7 @@ I'm currently looking for a Junior Developer role.
 
 While doing that I am studying and work on my own small projects.
 
-My personal website is at https://marycummings.surge.sh/
+My personal website is at https://marycummings.surge.sh
 
 <!--
 **MaryBobs/MaryBobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
